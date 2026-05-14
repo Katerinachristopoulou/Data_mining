@@ -1,2 +1,2 @@
 # Data_mining
-projects done in Datamining course
+projects done in Data mining course using Machine Learning Techniques 
